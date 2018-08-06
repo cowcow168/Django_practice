@@ -93,6 +93,35 @@ DATABASES = {
     }
 }
 
+#herokuとデバッグ環境を切り分ける COMPUTER-NAMEは、デバイス名
+#
+# if "COMPUTER-NAME" in hostname:
+#     #デバッグ環境
+#     DATABASES = {
+#         'default': {
+#             # 'ENGINE': 'django.db.backends.sqlite3',
+#             'ENGINE': 'django.db.backends.mysql',
+#             # 'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+#             'NAME': 'DJANGO',  # データベース名
+#             'USER': 'ushijima',  # ユーザーID
+#             'PASSWORD': 's05g2008A',  # ユーザーIDのパスワード
+#             'HOST': '127.0.0.1',  # ホスト名,別のホストを指定する場合は「xxx.xxx.xxx.xxx」のようにIPアドレスを指定できる。
+#             # 'PORT': '3306',
+#         }
+#     }
+#     ALLOWED_HOSTS = []
+# else:
+#     #本番環境
+#     import dj_database_url
+#     db_from_env = dj_database_url.config()
+#     DATABASES = {
+#         # 'default': dj_database_url.config()
+#         'default': db_from_env
+#     }
+#     ALLOWED_HOSTS = ['*']
+
+
+
 
 # Password validation
 # https://docs.djangoproject.com/en/2.0/ref/settings/#auth-password-validators

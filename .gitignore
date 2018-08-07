@@ -1,4 +1,4 @@
 heroku_django/
 my_env/
 my_venv/
-*_bak
+*.pyc

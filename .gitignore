@@ -1,4 +1,2 @@
 heroku_django/
-my_env/
-my_venv/
 *.pyc

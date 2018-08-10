@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2acb73e-d30e-4e3c-8f2f-5c95b4c3a957" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/mySite/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,18 +43,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Procfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="29" selection-start-column="29" selection-end-column="29" />
+              <caret column="58" selection-start-column="58" selection-end-column="58" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mySite/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -141,17 +135,18 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.project" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ushijima\PycharmProjects\my_env\mySite" />
+      <recent name="C:\Users\ushijima\PycharmProjects\my_env\mySite\templates" />
+      <recent name="C:\Users\ushijima\PycharmProjects\my_env\mySite\myapp\templates" />
+      <recent name="C:\Users\ushijima\PycharmProjects\my_env\mySite\template" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ushijima\PycharmProjects\my_env\mySite\templates\myapp\templates" />
       <recent name="C:\Users\ushijima\PycharmProjects\my_env\mySite\templates\myapp" />
       <recent name="C:\Users\ushijima\PycharmProjects\my_env\mySite\myapp\templates" />
       <recent name="C:\Users\ushijima\PycharmProjects\my_env\mySite\myapp" />
       <recent name="C:\Users\ushijima\PycharmProjects\my_env\mySite\template\admin" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ushijima\PycharmProjects\my_env\mySite\templates" />
-      <recent name="C:\Users\ushijima\PycharmProjects\my_env\mySite\myapp\templates" />
-      <recent name="C:\Users\ushijima\PycharmProjects\my_env\mySite\template" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -181,6 +176,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21189979" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -436,15 +432,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mySite/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="29" selection-start-column="29" selection-end-column="29" />
+          <caret column="58" selection-start-column="58" selection-end-column="58" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mySite/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
